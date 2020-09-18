@@ -1,0 +1,229 @@
+
+<resources>
+    <string name="app_name">NotrePeau</string>
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le panneau de navigation</string>
+    <string name="nav_header_title">Osvaldo Wesley</string>
+    <string name="nav_header_subtitle"> </string>
+    <string name="nav_header_desc">En-tête de navigation</string>
+    <string name="action_settings">Réglage</string>
+    <string name="menu_dashboard">Tableau</string>
+    <string name="menu_gallery">Galerie</string>
+    <string name="menu_slideshow">Carrousel d`images</string>
+    <string name="menu_tools">Outils</string>
+    <string name="menu_share">Partager</string>
+    <string name="menu_send">Chercher</string>
+    <string name="myCase">Mes cas</string>
+    <string name="ch_pass">Changement de mot de passe</string>
+    <string name="edit_profile">Editez le profile</string>
+    <string name="log_out">Déconnectez</string>
+    <string name="history">Mon histoire</string>
+    <string name="plan">Mon plan d`activités</string>
+    <string name="subscription">Abonnement</string>
+    <string name="newCase">Nouveau cas</string>
+    <string name="menu_mycase">Mes cas</string>
+    <string name="menu_myplan">Mon plan d`activités</string>
+    <string name="menu_subscription">Abonnement</string>
+    <string name="menu_newcase">Nouveau cas</string>
+    <string name="menu_history">Mon histoire</string>
+    <string name="menu_changepwd">Changement de mot de passe</string>
+    <string name="menu_logout">Déconnectez</string>
+    <string name="please_click">
+Cliquez sur le bouton cidessous pour s’inscrire \n et postez votre problème de peau après avoir être \n examiner par nos experts de peau
+</string>
+    <string name="skin_problem">Etes-vous Inquiétez de votre problème de peau ?</string>
+    <string name="post_problem">\tPROBLÈME DE POSTE \t</string>
+    <string name="already_account">Avez-vous déjà un compte?</string>
+    <string name="reset_password">
+Entrez votre email et nous vous enverrons un lien pour réinitialiser votre mot de passe
+</string>
+    <string name="sign_in">Inscription</string>
+    <string name="add_case">\t Ajoutez un nouveau cas</string>
+    <string name="choose_title">
+Ajoutez un titre à votre cas puis cliquez sur le boutton rouge à droite pour ajouter plus de trois photos avec leurs descriptions.
+</string>
+    <string name="title">\t Titre: </string>
+    <string name="img_description">Veuillez saisir la description de l`image</string>
+    <string name="txt_description">Veuillez entrer le texte</string>
+    <string name="used">
+Avez-vous traité quelquechose avant l’enregistrement ? si c’est le cas, s’il vous plait dites nous ce qu’avez-vous utilisé ?
+</string>
+    <string name="summary">
+Qu`est-ce qui vous inquiet le plus dans votre état de peau ?
+</string>
+    <string name="email">Courrier électronique: </string>
+    <string name="btn_send">CHERCHER</string>
+    <string name="btn_forgot">ENVIAR</string>
+    <string name="password">Mot de passe: </string>
+    <string name="register_down">
+Médecin : Veuillez visiter le \n web site de NotrePeau.com
+</string>
+    <string name="skinexam_com">
+<u>NOTREPEAU.COM</u>
+</string>
+    <string name="btn_submit">Soumettre</string>
+    <string name="change_password_submit">Soumettre</string>
+    <string name="add_case_preview">Agregar un nuevo caso - Preestrenar</string>
+    <string name="pre_title">Titre: </string>
+    <string name="concern">Tus Preocupaciones: </string>
+    <string name="state">Symptômes: </string>
+    <string name="profile_state">Etat: </string>
+    <string name="body">Partie du corps affectée: </string>
+    <string name="prior">Traitement Préalable: </string>
+    <string name="please_regist">Veuillez vous inscrire pour continuer</string>
+    <string name="f_name">Nombre: </string>
+    <string name="l_name">Apellido: </string>
+    <string name="cnf_pass">Confirma Contraseña: </string>
+    <string name="agree">Je suis d`accord avec le </string>
+    <string name="terms">
+<u>Termes et conditions</u>
+</string>
+    <string name="first_name">Prénom: </string>
+    <string name="last_name">Nom: </string>
+    <string name="address">Adresse: </string>
+    <string name="city">Ville: </string>
+    <string name="zip_code">Code Postale: </string>
+    <string name="country">Pays: </string>
+    <string name="home_tel_no">Téléphone à domicile: </string>
+    <string name="cell_phone_no">Numéro du téléphone: </string>
+    <string name="btn_save">SAUVEGARDER</string>
+    <string name="oneM">Plan for 1 Month</string>
+    <string name="threeM">Plan for 3 Month</string>
+    <string name="sixM">Plan for 6 Month</string>
+    <string name="twelveM">Plan for 12 Month</string>
+    <string name="recent">Cas récemment répondu</string>
+    <string name="pend">Cas en suspens</string>
+    <string name="subscription_period_prom">NotrePeau Abonnement/mois</string>
+    <string name="subscription_resignup_prompt">NotrePeau Se réabonner</string>
+    <string name="subscription_update_prompt">NotrePeau Mettre à jour l`abonnement</string>
+    <!--  TODO: Remove or change this placeholder text  -->
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+    <string name="error_network_check">Veuillez vérifier la connexion au réseau de données</string>
+    <string name="loading">Authentification...</string>
+    <string name="loading_data">Chargement des données...</string>
+    <string name="summery">\t Résumé: </string>
+    <string name="Loading">\\t Chargement...</string>
+    <string name="name">Nombre: </string>
+    <string name="next">Suivant ?</string>
+    <string name="please_note_this_to_my_history_and_physical">Ce sont les détails pour accompagner mes photos</string>
+    <string name="activity_plan">
+<![CDATA[
+En utilisant cette application, vous acceptez nos conditions générales qui nous permettent de stocker vos informations et de les partager avec votre compagnie d`assurance / clinique / hôpital / pharmacie afin que vous puissiez continuer votre plan d`abonnement.
+]]>
+</string>
+    <string name="subscription_prompt_continue">continuer</string>
+    <string name="subscription_prompt_cancel">Annuler</string>
+    <string name="titleresId">
+Souhaitez-vous vous abonner pour enregistrer vos photos?
+</string>
+    <string name="subscription_submit_continue">Soumettre</string>
+
+<!--    add new string-->
+    <string name="remember_password">souviens-toi de moi</string>
+    <string name="login_button">Inscription</string>
+    <string name="register_button">Enregistrer</string>
+    <string name="forgot_password">Mot de passe Oublié ?</string>
+    <string name="no_account_yet">Avez-vous déjà un compte</string>
+    <string name="answered_cases">Cas récemment répondus</string>
+    <string name="all_cases">Cas Total</string>
+    <string name="pending_cases">Cas en suspend</string>
+    <string name="history_layout">L`histoire</string>
+    <string name="all_cases_sorted">Selectionnez la date du dédut et de fin pour voir les cas arrangés par date.</string>
+    <string name="from_date">De: </string>
+    <string name="to_date">A: </string>
+    <string name="company_name">Nombre de empresa</string>
+    <string name="status">Statut</string>
+    <string name="contact">Contact: </string>
+    <string name="photo_required">Photo: * Requerido *</string>
+    <string name="photos">Photo: </string>
+    <string name="month">5$/ Mois</string>
+    <string name="subscription_1">Maintenir vos photos pour une ultérieure comparaison</string>
+    <string name="subscription_2">Nos experts comparerons avant et après vos photos</string>
+    <string name="case_submit_result">Vos photos seront supprimées après réception de la réponse de nos spécialistes. \ n (Abonnez-vous pour ne pas perdre vos photos)</string>
+    <string name="press_again_exit">Appuyez à nouveau pour quitter</string>
+    <string name="faile_inventory">Erreur de requête d`inventaire: </string>
+    <string name="subscription_inappbilling_error">Problem configuring in-app billing: </string>
+    <string name="subscription_check_error">Erreur lors de la consultation de l`inventaire. Une autre opération asynchrone en cours.</string>
+    <string name="subscription_failed_queryinventory">Erreur de requête d`inventaire: </string>
+    <string name="subscription_success">Merci de vous être abonné à NotrePeau!</string>
+    <string name="error_purchasing_subscription">Échec de l`achat de la vérification d`authenticité.</string>
+
+<!--    layout-->
+    <string name="personal">Information personnelle</string>
+    <string name="contact_information">Information de contact</string>
+    <string name="layout_input_name">S`il vous plaît entrez votre nom.</string>
+    <string name="input_company_number">Veuillez saisir votre numéro d`entreprise.</string>
+    <string name="old_password">Ancien mot de passe</string>
+    <string name="new_password">Nouveau mot de passe</string>
+    <string name="confirm_password_hint">Confirmez mot de passe</string>
+    <string name="email_address">Adresse de courrier électronique</string>
+    <string name="registration">Enregistrer</string>
+
+<!--    Toast strings-->
+    <string name="fill_in_fields">Veuillez remplir les champs pour continuer.</string>
+    <string name="successfully_register">Enregistré avec succès</string>
+    <string name="database_error">erreur de la base de données</string>
+    <string name="timeout_error">Erreur de délai d`attente!</string>
+    <string name="subscription_google_error">Erreur d`abonnement à NotrePeau ou consultez google.</string>
+    <string name="some_problem">Un problème est survenu</string>
+    <string name="select_proper_date">Sélectionnez la date appropriée</string>
+    <string name="failed">Échoué!</string>
+    <string name="enter_title_greater">Entrez la taille des caractères du titre supérieure à 3</string>
+    <string name="enter_image_greater">Entrez la taille des caractères de la description de l`image supérieure à 3</string>
+    <string name="enter_all_details">Veuillez saisir tous les détails</string>
+    <string name="provide_first_image">Fournissez la première image pour votre avis.</string>
+    <string name="select_age">Veuillez sélectionner votre age</string>
+    <string name="select_health">Veuillez sélectionner votre santé</string>
+    <string name="select_body_part">Veuillez sélectionner votre partie du corps</string>
+    <string name="password_confirm">Le mot de passe et le mot de passe de confirmation ne correspondent pas</string>
+    <string name="input_email">Veuillez saisir votre email</string>
+    <string name="input_valid_email">S`il vous plaît, mettez une adresse email valide</string>
+    <string name="this_is_recentcase">Ce sont des cas récents</string>
+    <string name="subscription_inventory_error">Erreur lors de la consultation de l`inventaire. Une autre opération asynchrone en cours.</string>
+    <string name="subscribed">Abonné</string>
+    <string name="subscribe">SUSCRÍBETE</string>
+    <string name="enter_details">Entrez les détails</string>
+    <string name="valid_emailId">Veuillez saisir une adresse e-mail valide</string>
+    <string name="check_internet">Veuillez vérifier la connexion Internet</string>
+
+<!--    dialog-->
+    <string name="subscribe_as_individual">Enregistrer individuellement</string>
+    <string name="pay_from_my_company">Payer de ma compagnie</string>
+    <string name="dont_wish_subscribe">Ne pas s’inscrire</string>
+    <string name="case_dialog_title">Saisissez le nom et le numéro de l`entreprise (assurance, hôpital, etc.)</string>
+
+    <string name="case_title_checkhover">Veuillez fournir le titre du cas</string>
+    <string name="enter_old_password">Veuillez saisir l`ancien mot de passe</string>
+    <string name="enter_new_password">Veuillez saisir un nouveau mot de passe</string>  //Please enter a new Password
+    <string name="enter_confirm_password">Veuillez saisir le mot de passe de confirmation</string> //Please enter confirm password
+
+    <string name="case_title">Titre: </string>
+    <string name="case_summary_not_abailable">Résumé: Non disponible</string>
+    <string name="case_summary">Résumé: </string>
+    <string name="not_available">Non disponible</string>
+    <string name="age">Age: </string>
+    <string name="health_status_not_available">État de santé: non disponible</string>
+    <string name="health_status">Etat de santé: </string>
+    <string name="case_state">Síntomas: </string>
+    <string name="gallery">GALERÍA</string>
+    <string name="camera">CAMÉRA</string>
+    <string name="itchy">Ça démange</string>
+    <string name="change_color_overtime">Changement de couleur avec le temps</string>
+    <string name="I_can_feel_it_as_a_bump">Je peux sentir une bosse</string>
+    <string name="health">Santé: </string>
+    <string name="select_age_list">Choisissez votre age</string>
+    <string name="health_list">État de santé</string>
+    <string name="select_body_part_list">Seleccionar parte del cuerpo</string>
+    <string name="select_previous_used_list">Produit précédemment utilisé</string>
+    <string name="picture_option">Option d`image</string>
+    <string name="patient_state">conclusion: </string>
+    <string name="terms_condition">J`accepte les termes et conditions</string>
+    <string name="subscription_saved_image">Votre image sera enregistrée pour une comparaison future.</string>  //Your image will be saved for future comparisons.
+    <string name="enter_title">Veuillez saisir le titre.</string>
+    <string name="street">Rue: </string>
+    <string name="case_submission">Soumission de cas</string>
+    <string name="btn_submission">Envoyer</string>
+    <string name="register_success">Compte créé! Veuillez vérifier votre email et vérifier le lien</string>
+    <string name="register_failed">Un problème est survenu lors de l`enregistrement de vos informations. Réessayer.</string>
+    <string name="register_error">Cet e-mail est déjà enregistré. Essaye à nouveau.</string>
+</resources>
